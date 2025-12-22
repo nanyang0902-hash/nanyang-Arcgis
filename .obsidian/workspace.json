@@ -22,17 +22,20 @@
             }
           },
           {
-            "id": "11712fda1e118f7c",
+            "id": "ce1a6223b8f1bab6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "半天.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "半天"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "半天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "半天 的反向链接列表"
             }
           },
           {
@@ -193,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11712fda1e118f7c",
+  "active": "d1b0efa29297c9cd",
   "lastOpenFiles": [
     "半天.md",
     "未命名.md",
