@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "数学地质上机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "数学地质上机"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4d5e6a6029b668f6",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "数学地质上机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "数学地质上机 的反向链接列表"
             }
           },
           {
@@ -214,7 +214,7 @@
   },
   "active": "8294c58c1ece20c8",
   "lastOpenFiles": [
-    "未命名.md",
+    "数学地质上机.md",
     "Arcgis中选取ROI时遇到同一地物颜色一致的情况.md",
     "assets/Arcgis中选取ROI时遇到同一地物颜色一致的情况/file-20251223145907604.png",
     "assets/Arcgis中选取ROI时遇到同一地物颜色一致的情况",
