@@ -35,8 +35,7 @@
               "title": "Envi中选取ROI时遇到同一地物颜色一致的情况"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Envi中选取ROI时遇到同一地物颜色一致的情况.md",
+                "file": "Arcgis pro解决中文乱码问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Envi中选取ROI时遇到同一地物颜色一致的情况 的反向链接列表"
+              "title": "Arcgis pro解决中文乱码问题 的反向链接列表"
             }
           },
           {
@@ -198,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "384b442a40e79df9",
+  "active": "d1b0efa29297c9cd",
   "lastOpenFiles": [
+    "Envi中选取ROI时遇到同一地物颜色一致的情况.md",
     "Arcgis pro解决中文乱码问题.md",
     "assets/Arcgis pro解决中文乱码问题/file-20251223143512347.png",
-    "Envi中选取ROI时遇到同一地物颜色一致的情况.md",
     "assets/Envi中选取ROI时遇到同一地物颜色一致的情况",
     "assets/数学地质上机/file-20251223185023181.png",
     "数学地质上机.md",
